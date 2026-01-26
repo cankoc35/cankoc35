@@ -7,4 +7,5 @@ Focused on RAG pipelines, intent-based routing, and applied ML for real-world da
 - Currently Working On Real-time voice agents (VAD → STT → LLM → TTS).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafacan-koc/)
+
 📫 kocmustafacan@gmail.com · 📍 Turkey (UTC+3)
