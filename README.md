@@ -2,10 +2,10 @@
 
 Data Analyst / Data Scientist building SQL-first analytics and
 production-grade AI systems on PostgreSQL and TimescaleDB.
-Experienced in RAG pipelines, intent-based routing, and applied ML for real-world data.
+Focused on RAG pipelines, intent-based routing, and applied ML for real-world data.
 
 ### Currently Working On
-- Real-time voice agents (VAD → STT → LLM → TTS) for production use.
+- Real-time voice agents (VAD → STT → LLM → TTS) for production use
 
 ### Tech Stack
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
