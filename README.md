@@ -1,6 +1,6 @@
 ## Hi, I’m Can 👋
 
-Data Analyst / Data Scientist specializing in SQL-first analytics, PostgreSQL, and production-grade AI systems.
+Data Analyst / Data Scientist specializing in SQL, PostgreSQL, and production-grade AI systems.
 
 I design and build data platforms and intelligent applications that turn raw operational data into reliable analytics, reporting, and decision-making tools.
 
