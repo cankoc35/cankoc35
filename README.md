@@ -1,6 +1,6 @@
 Hi, I'm Can 👋
 
-Applied Data Analyst building data and AI systems on top of large-scale logistics and IoT data.
+Applied Data Scientist and Engineer building AI systems, with experience in GIS and IoT data.
 
 I work across SQL, PostgreSQL, time-series analytics, and LLM applications, with a focus on turning raw operational data into production-ready analytics, retrieval systems, and decision-support tools.
 
